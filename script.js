@@ -300,7 +300,7 @@ sortingBtns.forEach((button, index) => {
       rightMain.innerHTML = "";
       pagination();
     }
-
+                 
     if (index == 1) {
       isClick = true;
       isStart = true;
