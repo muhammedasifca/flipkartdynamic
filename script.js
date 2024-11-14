@@ -16,7 +16,7 @@ try {
 }
 
 // Fetching data// Fetching data// Fetching data****
-        
+
 // mobile rendering to DOM// mobile rendering to DOM
 const rightMain = document.querySelector(".right-mobiles");
 function showAllMobile(mobiles) {
@@ -89,7 +89,7 @@ function showAllMobile(mobiles) {
                                         }/month</span>
                                     </div>
                                 </div>
-                            </div>
+                              </div> 
                         </div>
                     </div>     
         
@@ -285,7 +285,7 @@ let isStart = false;
 //lllllll
 sortingBtns.forEach((button, index) => {
   button.addEventListener("click", (btn) => {
-    // isNewData=false           
+    // isNewData=false
     removebtn();
     button.classList.add("active");
     console.log(btn, index);
@@ -300,7 +300,7 @@ sortingBtns.forEach((button, index) => {
       rightMain.innerHTML = "";
       pagination();
     }
-                 
+
     if (index == 1) {
       isClick = true;
       isStart = true;
@@ -489,19 +489,14 @@ function pagination() {
     console.log(tenMobiles);
 
     showAllMobile(tenMobiles);
-  } 
-  
-  
-  
-  else {
-
+  } else {
     if (!isClick) {
       newDataSlice = newdata.sort((a, b) => b.rating - a.rating);
     } else {
       newDataSlice = newdata;
     }
     if (!isNewData) {
-      newdataAll=newdata
+      newdataAll = newdata;
     }
 
     newDataSlice = newdata;

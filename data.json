@@ -19,8 +19,7 @@
             "emi": "3,834",
             "assured": "img/assured.png",
             "brand": "vivo",
-            "ram":8
-
+            "ram": 8
         },
         {
             "mobImg": "img/v2.jpeg",
@@ -41,7 +40,7 @@
             "emi": "3,834",
             "assured": "img/assured.png",
             "brand": "vivo",
-            "ram":3
+            "ram": 3
         },
         {
             "mobImg": "img/v4.jpeg",
@@ -62,7 +61,7 @@
             "emi": "3,834",
             "assured": "img/assured.png",
             "brand": "vivo",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/v3.jpeg",
@@ -83,8 +82,7 @@
             "emi": "3,834",
             "assured": "img/assured.png",
             "brand": "vivo",
-            "ram":8
-
+            "ram": 8
         },
         {
             "mobImg": "img/v6.jpeg",
@@ -105,7 +103,7 @@
             "emi": "3,834",
             "assured": "img/assured.png",
             "brand": "vivo",
-            "ram":2
+            "ram": 2
         },
         {
             "mobImg": "img/v5.jpeg",
@@ -126,7 +124,7 @@
             "emi": "3,834",
             "assured": "img/assured.png",
             "brand": "vivo",
-            "ram":6
+            "ram": 6
         },
         {
             "mobImg": "img/15pro.jpeg",
@@ -147,7 +145,7 @@
             "emi": "12,555",
             "assured": "img/assured.png",
             "brand": "apple",
-            "ram":2
+            "ram": 2
         },
         {
             "mobImg": "img/ip3.jpeg",
@@ -168,7 +166,7 @@
             "emi": "21,888",
             "assured": "img/assured.png",
             "brand": "apple",
-            "ram":2
+            "ram": 2
         },
         {
             "mobImg": "img/ip7.jpeg",
@@ -189,7 +187,7 @@
             "emi": "5,899",
             "assured": "img/assured.png",
             "brand": "apple",
-            "ram":2
+            "ram": 2
         },
         {
             "mobImg": "img/ip1.jpeg",
@@ -210,7 +208,7 @@
             "emi": "8,999",
             "assured": "img/assured.png",
             "brand": "apple",
-            "ram":2
+            "ram": 2
         },
         {
             "mobImg": "img/ip4.jpeg",
@@ -231,7 +229,7 @@
             "emi": "7,599",
             "assured": "img/assured.png",
             "brand": "apple",
-            "ram":2
+            "ram": 2
         },
         {
             "mobImg": "img/ip14.jpeg",
@@ -252,8 +250,9 @@
             "emi": "4,799",
             "assured": "img/assured.png",
             "brand": "apple",
-            "ram":2
-        },{
+            "ram": 2
+        },
+        {
             "mobImg": "img/s7.jpeg",
             "mobName": "SAMSUNG Galaxy M14 5G (Sapphire Blue, 64 GB)",
             "star": 3.9,
@@ -272,7 +271,7 @@
             "emi": "1556",
             "assured": "img/assured.png",
             "brand": "samsung",
-            "ram":4
+            "ram": 4
         },
         {
             "mobImg": "img/sam1.jpeg",
@@ -293,7 +292,7 @@
             "emi": "1556",
             "assured": "img/assured.png",
             "brand": "samsung",
-            "ram":6
+            "ram": 6
         },
         {
             "mobImg": "img/ip8.jpeg",
@@ -314,7 +313,7 @@
             "emi": "2,999",
             "assured": "img/assured.png",
             "brand": "apple",
-            "ram":2
+            "ram": 2
         },
         {
             "mobImg": "img/sam2.jpeg",
@@ -335,7 +334,7 @@
             "emi": "8,999",
             "assured": "img/assured.png",
             "brand": "samsung",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/sam3.jpeg",
@@ -356,7 +355,7 @@
             "emi": "6,799",
             "assured": "img/assured.png",
             "brand": "samsung",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/sam4.jpeg",
@@ -377,7 +376,7 @@
             "emi": "1,799",
             "assured": "",
             "brand": "samsung",
-            "ram":4
+            "ram": 4
         },
         {
             "mobImg": "img/sam5.jpeg",
@@ -398,7 +397,7 @@
             "emi": "235",
             "assured": "",
             "brand": "samsung",
-            "ram":1
+            "ram": 1
         },
         {
             "mobImg": "img/sam6.jpeg",
@@ -419,7 +418,7 @@
             "emi": "749",
             "assured": "",
             "brand": "samsung",
-            "ram":4
+            "ram": 4
         },
         {
             "mobImg": "img/moto1.jpeg",
@@ -440,7 +439,7 @@
             "emi": "2,799",
             "assured": "img/assured.png",
             "brand": "motorola",
-            "ram":12
+            "ram": 12
         },
         {
             "mobImg": "img/moto2.jpeg",
@@ -461,7 +460,7 @@
             "emi": "1,799",
             "assured": "img/assured.png",
             "brand": "motorola",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/moto3.jpeg",
@@ -482,7 +481,7 @@
             "emi": "1,199",
             "assured": "",
             "brand": "motorola",
-            "ram":4
+            "ram": 4
         },
         {
             "mobImg": "img/moto6.jpeg",
@@ -503,7 +502,7 @@
             "emi": "1,399",
             "assured": "",
             "brand": "motorola",
-            "ram":6
+            "ram": 6
         },
         {
             "mobImg": "img/g8.jpeg",
@@ -524,7 +523,7 @@
             "emi": "4,099",
             "assured": "img/assured.png",
             "brand": "google",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/moto4.jpeg",
@@ -545,7 +544,7 @@
             "emi": "3,999",
             "assured": "img/assured.png",
             "brand": "motorola",
-            "ram":12
+            "ram": 12
         },
         {
             "mobImg": "img/moto5.jpeg",
@@ -566,9 +565,8 @@
             "emi": "233",
             "assured": "",
             "brand": "motorola",
-            "ram":1
+            "ram": 1
         },
-        
         {
             "mobImg": "img/g1.jpeg",
             "mobName": "Google Pixel 9 Pro Fold (Obsidian, 256 GB)",
@@ -588,7 +586,7 @@
             "emi": "14,199",
             "assured": "img/assured.png",
             "brand": "google",
-            "ram":16
+            "ram": 16
         },
         {
             "mobImg": "img/g2.jpeg",
@@ -609,7 +607,7 @@
             "emi": "11,199",
             "assured": "img/assured.png",
             "brand": "google",
-            "ram":16
+            "ram": 16
         },
         {
             "mobImg": "img/g3.jpeg",
@@ -630,7 +628,7 @@
             "emi": "3,199",
             "assured": "img/assured.png",
             "brand": "google",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/g5.jpeg",
@@ -651,7 +649,7 @@
             "emi": "3,199",
             "assured": "img/assured.png",
             "brand": "google",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/g6.jpeg",
@@ -672,7 +670,7 @@
             "emi": "6899,199",
             "assured": "img/assured.png",
             "brand": "google",
-            "ram":12
+            "ram": 12
         },
         {
             "mobImg": "img/o1.jpeg",
@@ -693,13 +691,13 @@
             "emi": "3199",
             "assured": "img/assured.png",
             "brand": "oppo",
-            "ram":8
+            "ram": 8
         },
         {
             "mobImg": "img/o3.jpeg",
             "mobName": "OPPO F21s Pro 5G (Starlight Black, 128 GB)",
             "star": 4,
-            "rating":1901,
+            "rating": 1901,
             "reviews": "113",
             "rom": "8 GB RAM | 128 GB ROM ",
             "display": "16.33 cm (6.4 inch) Super AMOLED Display",
@@ -714,9 +712,8 @@
             "emi": "3199",
             "assured": "img/assured.png",
             "brand": "oppo",
-            "ram":8
+            "ram": 8
         },
-        
         {
             "mobImg": "img/o7.jpeg",
             "mobName": "OPPO Reno 12 Pro 5G(Space Brown, 256 GB)",
@@ -733,10 +730,10 @@
             "retRate": "53",
             "off": "16% off",
             "exchange": "6,000",
-            "emi": "1199", 
+            "emi": "1199",
             "assured": "img/assured.png",
             "brand": "oppo",
-            "ram":12
+            "ram": 12
         },
         {
             "mobImg": "img/o5.jpeg",
@@ -757,7 +754,7 @@
             "emi": "3199",
             "assured": "img/assured.png",
             "brand": "oppo",
-            "ram":6
+            "ram": 6
         },
         {
             "mobImg": "img/o4.jpeg",
@@ -778,7 +775,7 @@
             "emi": "3199",
             "assured": "img/assured.png",
             "brand": "oppo",
-            "ram":6
+            "ram": 6
         },
         {
             "mobImg": "img/o6.jpeg",
@@ -796,10 +793,10 @@
             "retRate": "14,999",
             "off": "16% off",
             "exchange": "6,000",
-            "emi": "1199", 
+            "emi": "1199",
             "assured": "img/assured.png",
             "brand": "oppo",
-            "ram":4
+            "ram": 4
         },
         {
             "mobImg": "img/o8.jpeg",
@@ -817,11 +814,10 @@
             "retRate": "17,999",
             "off": "16% off",
             "exchange": "8,000",
-            "emi": "2199", 
+            "emi": "2199",
             "assured": "img/assured.png",
             "brand": "oppo",
-            "ram":4
+            "ram": 4
         }
     ]
 }
-
